@@ -3,4 +3,4 @@ A 6-fold cross-validation approach was employed during the model development pro
 
 ## GUI
 
-<img align="center" alt="dataanalysis"  width = "1000" height = "250px" src="Screenshot 2023-12-11 154427.png">
+<img align="center" alt="dataanalysis"  width = "200" height = "250px" src="Screenshot 2023-12-11 154427.png">
